@@ -5,9 +5,7 @@ This project was completed during the Fall of 2023 as a final project for a data
 
 1. files_split.ipynb : This file is to split the files into chunks; after creating the files, all of them need to be loaded into Databricks.
 
-2. EDA&preprocessing.ipynb : This file contains the outputs of preprocessing and EDA visualization. It is included only to show those output displays.
-
-3. traffic_accident_duration_prediction.ipynb : This file contains all the code and outputs of the rest that are not included in the above file.
+2. traffic_accident_duration_prediction.ipynb : This file contains all the code and outputs.
 
 *Dataset Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 ![attributes](https://github.com/Su-Jung-Choi/big_data_project/assets/88897881/981259ee-30f1-4dcb-a74d-84d0b38d138d)
