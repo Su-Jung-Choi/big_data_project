@@ -8,4 +8,6 @@ This project was completed during the Fall of 2023 as a final project for a data
 2. traffic_accident_duration_prediction.ipynb : This file contains all the code and outputs.
 
 *Dataset Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+
 ![attributes](https://github.com/Su-Jung-Choi/big_data_project/assets/88897881/981259ee-30f1-4dcb-a74d-84d0b38d138d)
