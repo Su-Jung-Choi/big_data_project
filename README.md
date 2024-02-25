@@ -8,7 +8,7 @@ This project was completed during the Fall of 2023 as a final project for a data
 
 3. project_report_sujung_choi.pdf: Final report on the project explaining the process of the project, results, and discussion. 
 
-*Dataset Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+*Dataset Link: [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 
 ![attributes](https://github.com/Su-Jung-Choi/big_data_project/assets/88897881/981259ee-30f1-4dcb-a74d-84d0b38d138d)
